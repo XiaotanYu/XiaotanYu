@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XiaotanYu
 - 👀 I’m interested in organic chemistry and machine learning.
-- 🌱 I’m currently learning the practice for machine learning in chemistry and drug discovery.
-- 💞️ I’m looking to collaborate on the projects about machine learning practice in  chemistry.
+- 🌱 I’m currently learning the practice of machine learning in chemistry and drug discovery.
+- 💞️ I’m looking to collaborate on projects like the application of machine learning in chemistry.
 - 📫 How to reach me yuxiaotan6666@qq.com
 
 <!---
