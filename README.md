@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XiaotanYu
-- 👀 I’m interested in medicinal chemistry.
+- 👀 I’m interested in medicinal chemistry and machine learning.
 - 🌱 I’m currently learning the practice for machine learning in chemistry and drug discovery.
 - 💞️ I’m looking to collaborate on the projects about machine learning practice in  chemistry.
 - 📫 How to reach me yuxiaotan6666@qq.com
