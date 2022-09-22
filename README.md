@@ -1,9 +1,8 @@
 ## Welcome!! :wave: :heart:
 - :balloon: Welcome to my github!
-- :grin: I’m Xiaotan Yu :blush: , a graduate student from Huazhong University of Science and Technology :school:
+- :grin: I’m Xiaotan Yu, a pharmacy graduate student from Huazhong University of Science and Technology :school:
 - 👀 I’m interested in organic chemistry and machine learning.
 - 🌱 I’m currently learning the application of machine learning in chemistry and drug discovery.
-- 💞️ I’m looking to collaborate on projects like the application of machine learning in chemistry.
 - 📫 How to reach me yuxiaotan6666@qq.com
 
 <!---
